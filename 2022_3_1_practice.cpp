@@ -52,6 +52,7 @@
 //	int add(int a, int b) {
 //		while (b)
 //		{
+//不用加号实现加法
 //			int carry = (a&b) << 1;
 //			a = a^b;
 //			b = carry;
@@ -61,7 +62,7 @@
 //};
 //#include<iostream>
 //using namespace std;
-//..
+//
 //int main()
 //{
 //	int a = -1;
