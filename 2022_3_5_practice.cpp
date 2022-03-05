@@ -2,7 +2,7 @@
 
 
 //import java.util.*;
-//java代码
+//java麓煤脗毛
 //public class Solution {
 //	public boolean wordBreak(String s, Set<String> dict) {
 //		int len = s.length();
@@ -80,9 +80,9 @@ class Solution {
 public:
 	/**
 	*
-	* @param m int整型
-	* @param n int整型
-	* @return int整型
+	* @param m int脮没脨脥
+	* @param n int脮没脨脥
+	* @return int脮没脨脥
 	*/
 	int uniquePaths(int m, int n) {
 		// write code here
@@ -105,7 +105,7 @@ public:
 	}
 };
 
-
+//
 int main()
 {
 	cout << Solution().uniquePaths(1, 1) << endl;
